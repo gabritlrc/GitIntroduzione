@@ -1,0 +1,5 @@
+Nome: Nicolò 
+Cognome: Niero
+anni:20
+corso:gd
+Giochi Preferiti: persona 4 golden, the binding of isaac
